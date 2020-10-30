@@ -6,6 +6,7 @@
 int main()
 {
     int a = 1;
+    int b = 1;
 
     int* p1 = new int(2);
 
